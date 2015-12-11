@@ -16,7 +16,7 @@ $cd scripts
 
 $git clone https://github.com/sphughes/PowerShell.git
 
-$ls -al 
+$ls -al  
    Note - You now have a PowerShell Directory
    
 $cd PowerShell
