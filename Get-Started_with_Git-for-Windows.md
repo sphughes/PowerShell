@@ -10,7 +10,9 @@ Start "Git Bash"
 
 $cd /c
 
-$mkdir scripts
+$mkdir script
+
+$cd scripts
 
 $git clone https://github.com/sphughes/PowerShell.git
 
